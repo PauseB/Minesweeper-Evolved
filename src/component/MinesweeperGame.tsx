@@ -107,7 +107,7 @@ const MinesweeperGame = () => {
   return (
     <div className={calcBoardSizeClass()}>
       <div className="flex text-4xl mb-3 justify-between">
-        <div className="flex text-2xl">
+        <div className="flex text-2xl ">
           <div>Easy</div>
           <div>Normal</div>
           <div>Hard</div>
